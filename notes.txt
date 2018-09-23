@@ -1,9 +1,15 @@
 # Saruman
 
 I want a gradient of specific colors to draw on
-I want the pixels to breathe
+
+I want the pixels to breathe. I like the sin wave function used on the staff for this
+
 I want each pixel to change color slowly as it is breathing
+
 I do not want it to look like an animated rainbow effect - I want the pixels somewhat out of sync
+
 Maybe have each pixel determine it's next color to be between three and six increments forward or back from where it currently is
-Look at how different saturations change the effect of light
+
+Look at how different saturations change the diffusion of light
+
 How low does brightness have to be for it not to look like Christmas lights?
